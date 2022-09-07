@@ -1,0 +1,1 @@
+words = ["TEKSAS","BROOKLYN","NEW YORK"]
